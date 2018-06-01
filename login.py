@@ -3,3 +3,4 @@ b = 20
 
 wjq = 'wjq'
 manager = 'manager'
+c = 30
